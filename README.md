@@ -4,7 +4,6 @@
 - 🌱 Estou estudando PHP 
 - 🤔 Quero aprender mais sobre Front-end
 - ⚡ Fato curioso: minha formação inicial é na área da saúde!
-- 📫 Contate-me no email: jordhana.vvstreling@gmail.com
 
 <div align="center">
   <a href="https://github.com/Jstreling">
