@@ -4,6 +4,7 @@
 - 🌱 Estou estudando PHP 
 - 🤔 Quero aprender mais sobre Front-end
 - ⚡ Fato curioso: minha formação inicial é na área da saúde!
+- 📫 Contate-me no email: jordhana.vvstreling@gmail.com
 
 <div align="center">
   <a href="https://github.com/Jstreling">
@@ -22,7 +23,9 @@
 
 <div>
 <a href="https://instagram.com/jordhananutri" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-	<a href="https://twitter.com/jordhananutri"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href = "malito:jordhana.vvstreling@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://twitter.com/jordhananutri"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://twitter.com/jordhananutri](https://api.whatsapp.com/send?phone=5543998232513&text="><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+
+
 </div>
 
