@@ -1,8 +1,8 @@
 ### Oie, eu sou a Jordhana 👋
 
-- 🔭 Hoje trabalho como gerente de BackOffice
-- 🌱 Estou estudando PHP 
-- 🤔 Quero aprender mais sobre Front-end
+- 🔭 Hoje trabalho como Analista de Sucesso do Cliente (CS)
+- 🌱 Cursando Analise de Dados
+- 🚀 Certificada em Full Stack PHP
 - ⚡ Fato curioso: minha formação inicial é na área da saúde!
 
 <div align="center">
