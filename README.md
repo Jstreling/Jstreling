@@ -1,9 +1,9 @@
 ### Oie, eu sou a Jordhana 👋
 
-- 🔭 Hoje trabalho como Analista de Sucesso do Cliente (CS)
-- 🌱 Cursando Analise de Dados
+- 🔭 Hoje trabalho como Freelancer
+- 🌱 Cursando Analise de Power BI
 - 🚀 Certificada em Full Stack PHP
-- ⚡ Fato curioso: minha formação inicial é na área da saúde!
+- ⚡ Entusiasta em Design gráfico
 
 <div align="center">
   <a href="https://github.com/Jstreling">
